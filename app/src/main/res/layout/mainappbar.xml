@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/lavender"
+        android:id="@+id/drawerlayout"
+        android:orientation="horizontal"
+        android:paddingTop="10dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/drawer"
+            android:onClick="ClickMenu"
+            android:src="@drawable/baseline_menu_24" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kachara wala"
+            android:paddingStart="40dp"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

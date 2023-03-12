@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399536657119",
+    "firebase_url": "https://garbage-collacter-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "garbage-collacter",
+    "storage_bucket": "garbage-collacter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399536657119:android:f44f1f6702e4e3ec154f6a",
+        "android_client_info": {
+          "package_name": "com.ewaste.garbagecollacter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399536657119-rn5lsgpgppbgvfd1qkb5u4da2ihuh7vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWEfZMdaddisJJnLlQAOTBDjzVLsw5CYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399536657119-07dgd2a6objpjc4vdgnd596h8vjc6uge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
